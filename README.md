@@ -1,4 +1,5 @@
 # Crypto Ledger API
+![CI](https://github.com/mohammad-yasin-afjaei/Crypto-Ledger-API/actions/workflows/ci.yml/badge.svg)
 
 A Django REST API for managing crypto wallets with deposits, withdrawals, and transaction history. Uses idempotency keys for safe retries.
 
